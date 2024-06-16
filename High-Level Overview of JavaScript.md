@@ -7,7 +7,7 @@
 
 - The developer does not have to worry about managing resources manually; everything happens automatically.
 
-**Prototype-based object-oriented**:
+**Prototype-based object-oriented**: [[Primitives vs. Objects (Primitive vs. Reference Types)]]
 
 - Each object in JavaScript has a prototype from which it inherits methods that can be used in that object.
     - Example: Arrays inherit methods like `push` or `indexOf`.
@@ -42,3 +42,8 @@
 **Non-blocking event loop**:
 
 - JavaScript handles long-running tasks by executing them in the “background” and returning the results to the main thread once they are finished. This ensures the main thread is not blocked and can continue executing other code.
+
+**Topics for Later...**
+1. **Prototypal Inheritance:** 👉 Object Oriented Programming (OOP) with JavaScript
+2. **Event Loop:** 👉 Asynchronous JavaScript: Promises, Async/Await and AJAX
+3. **How the DOM Really Works:** 👉 Advanced DOM and Events

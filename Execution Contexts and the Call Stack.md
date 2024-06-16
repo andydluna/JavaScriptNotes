@@ -19,7 +19,7 @@ Environment in which a piece of JavaScript is executed. Stores all the necessary
 	2. Functions
 	3. `arguments` objects ~
 2. Scope chain [[Scope and the Scope Chain]]
-3. `this` keyword ~
+3. `this` keyword ~ [[The This Keyword!]]
 Generated during "creation phase", right before execution.
 ~ NOT in arrow functions!
 

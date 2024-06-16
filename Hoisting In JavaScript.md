@@ -11,3 +11,5 @@
 | `let` and `const` variables       | NO (well, yes, but not in practice)   | `<uninitialized>`, TDZ (Temporal Dead Zone) | Block                                 |
 | `function` expressions and arrows | Depends if using `var` or `let/const` | <                                           | <                                     |
 ![[Hoisting Example.png]]
+
+Best Practice: Do not hoist functions! Declare them first!
